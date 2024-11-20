@@ -1,4 +1,5 @@
 # BigBasket Optimization Project
+The objective of this project is to leverage Market Basket Analysis using the Apriori Algorithm to uncover meaningful associations between products from transactional data. These insights aim to enhance BigBasket's operational efficiency by optimizing inventory management, improving product placement, and enabling personalized marketing strategies, ultimately boosting customer satisfaction and sales.
 
 ## Overview
 
